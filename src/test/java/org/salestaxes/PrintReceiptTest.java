@@ -13,7 +13,6 @@ import org.salestaxes.items.Perfume;
 import org.salestaxes.items.category.AudioFormat;
 import org.salestaxes.order.ArticleOrder;
 import org.salestaxes.order.ShoppingCart;
-import org.salestaxes.utility.Printer;
 
 public class PrintReceiptTest {
 

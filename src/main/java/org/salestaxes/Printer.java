@@ -1,9 +1,10 @@
-package org.salestaxes.utility;
+package org.salestaxes;
 
 import java.util.List;
 
 import org.salestaxes.order.ArticleOrder;
 import org.salestaxes.order.ShoppingCart;
+import org.salestaxes.utility.Utilities;
 
 public class Printer {
 
