@@ -2,7 +2,7 @@ package org.salestaxes;
 
 import java.util.UUID;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.salestaxes.items.Article;
 import org.salestaxes.items.Book;
 import org.salestaxes.items.Drug;
